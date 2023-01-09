@@ -24,10 +24,6 @@
     "ultraLight": "#C9DDD9",
     "ultraDark": "#556F71"
   },
-  "topbarCtaButton": {
-    "url": "https://app.tryvital.io/api/auth/signup",
-    "name": "Get API Keys"
-  },
   "topAnchor": {
     "name": "Home",
     "icon": "house"
