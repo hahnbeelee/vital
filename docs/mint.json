@@ -24,12 +24,6 @@
     "ultraLight": "#C9DDD9",
     "ultraDark": "#556F71"
   },
-  "topbarLinks": [
-    {
-      "name": "GitHub",
-      "url": "https://github.com/tryVital"
-    }
-  ],
   "topbarCtaButton": {
     "url": "https://app.tryvital.io/api/auth/signup",
     "name": "Get API Keys"
