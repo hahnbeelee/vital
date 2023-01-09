@@ -24,10 +24,6 @@
     "ultraLight": "#C9DDD9",
     "ultraDark": "#556F71"
   },
-  "topAnchor": {
-    "name": "Home",
-    "icon": "house"
-  },
   "anchors": [
     {
       "name": "Wearables",
